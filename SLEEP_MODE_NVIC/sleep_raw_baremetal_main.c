@@ -1,4 +1,4 @@
-/* raw_baremetal.c */
+/* sleep_raw_baremetal_main.c */
 // Memory map definitions
 #define PERIPH_BASE       0x40000000
 #define APB1PERIPH_BASE   PERIPH_BASE
