@@ -1,4 +1,4 @@
-/* cmsis_baremetal.c */
+/* sleep_cmsis_baremetal_main.c */
 #include "stm32f103xb.h"
 
 // Interrupt Service Routine
